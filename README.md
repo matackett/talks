@@ -1,7 +1,7 @@
 # talks
 
 ## Presentations 
-WSDS 2019: *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course* \[[slides](https://github.com/matackett/talks/blob/master/presentations/wsds-2019-regression.pdf)\]
+WSDS 2019: *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course* \[[slides](https://github.com/matackett/talks/blob/master/presentations/wsds2019-r-git-regression.pdf)\]
 - Includes more details about the assignment workflow
 
 
