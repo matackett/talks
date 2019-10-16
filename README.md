@@ -2,7 +2,7 @@
 
 ## Presentations 
 
-Diversity in Data Science & Machine Learning: *Beyond the Buzzword: A Look at Data Science in Practice and How You Can be a Part of It* \[[slides](https://github.com/matackett/talks/blob/master/presentations/samsi-talk-oct2019.pdf)
+Diversity in Data Science & Machine Learning: *Beyond the Buzzword: A Look at Data Science in Practice and How You Can be a Part of It* \[[slides](https://github.com/matackett/talks/blob/master/presentations/samsi-talk-oct2019.pdf)\]
 
 WSDS 2019: *Using GitHub and RStudio to Facilitate Authentic Learning Experiences in a Regression Analysis Course* \[[slides](https://github.com/matackett/talks/blob/master/presentations/wsds2019-r-git-regression.pdf)\]
 - Includes more details about the assignment workflow
